@@ -1,4 +1,4 @@
-import 'package:bubba/features/authentication/presentation/pages/homepage.dart';
+import 'package:bubba/features/location/presentation/pages/homepage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
